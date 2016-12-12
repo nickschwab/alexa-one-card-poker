@@ -1,0 +1,9 @@
+PlayIntent play
+PlayIntent start
+PlayIntent deal
+YesIntent yes
+YesIntent stay
+YesIntent keep
+YesIntent stand
+NoIntent no
+NoIntent fold
